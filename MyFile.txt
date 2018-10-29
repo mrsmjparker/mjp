@@ -1,3 +1,3 @@
-# 2 Merge File Test
+Ray's File
 
-New line of Text
+New Line of text
