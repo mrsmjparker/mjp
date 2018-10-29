@@ -1,0 +1,3 @@
+#2 Merge File Test
+
+New Line of Text
